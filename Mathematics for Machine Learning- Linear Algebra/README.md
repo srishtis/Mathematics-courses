@@ -2,8 +2,7 @@ This file has all programming assignment solutions to the Linear Algebra Course 
 
 1. Week 3: Identifying special matrics
 
-2. Week 4: A. Gram-Schmidt Process
-
+2. Week 4: A. Gram-Schmidt Process;
            B. Reflecting Bear
            
 3. Week 5: PageRank
